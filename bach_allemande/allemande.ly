@@ -8,9 +8,9 @@
   title = \markup { \fontsize #-2 "Suite in E minor, Allemande"}
   composer = \markup { \fontsize #-2 "J. S. Bach, 1685 - 1750"}
   opus = \markup { \fontsize #-3 "BWV 996"}
-  piece = \markup { \fontsize #-3  "guitar transcription by Marijan Tadin"}
-  tagline = \markup { \left-align \fontsize #-4 \italic  "Lilypond Score Edited by Marijan Tadin" }
-  copyright = \markup { \right-align \fontsize #-4 \italic  "Creative Commons CC BY-SA 4.0" }
+  piece = \markup { \fontsize #-3  "guitar transcription"}
+  tagline = \markup { \center-column { \fontsize #-4 \italic  "Guitar score edited and engraved by Marijan Tadin" } } 
+  copyright = \markup { \center-column { \fontsize #-4 \italic "© 2026 Marijan Tadin — Creative Commons CC BY 4.0" } }
 }
 \pointAndClickOff
 

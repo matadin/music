@@ -5,8 +5,8 @@
   title = \markup { \fontsize #-2 "Aria"}
   composer = \markup { \fontsize #-2 "Johann Anton Losy, 1650 - 1721"}
   piece = \markup { \fontsize #-3  "guitar transcription"}
-  tagline = \markup { \left-align \fontsize #-4 \italic  "Lilypond Score Edited by Marijan Tadin" }
-  copyright = \markup { \right-align \fontsize #-4 \italic  "Creative Commons CC BY 4.0" }
+  tagline = \markup { \center-column { \fontsize #-4 \italic  "Guitar score edited and engraved by Marijan Tadin" } }
+  copyright = \markup { \center-column { \fontsize #-4 \italic "© 2026 Marijan Tadin — Creative Commons CC BY 4.0" } }
 }
 \pointAndClickOff
 
